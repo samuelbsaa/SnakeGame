@@ -1,5 +1,5 @@
 # SnakeGame
-SnakeGame desenvolvido em pytho.
+SnakeGame desenvolvido em python.
 
 Feito apenas como prática, com alguns erros e bugs, porém com o tempo vai ser melhorado.
 
